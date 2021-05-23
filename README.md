@@ -4,6 +4,8 @@
 # ser2021
 
 <!-- badges: start -->
+
+[![update-data](https://github.com/jtrecenti/ser2021/workflows/update-data/badge.svg)](https://github.com/jtrecenti/ser2021/actions)
 <!-- badges: end -->
 
 ``` r
